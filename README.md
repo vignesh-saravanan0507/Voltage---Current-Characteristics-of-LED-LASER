@@ -59,25 +59,17 @@ Key points:
 
 ## TABULATION LED Characteristics (850 nm)
 
-| Forward Voltage \(V_f\) (V) | Forward Current \(I_f\) (mA) |
-|-----------------------------|------------------------------|
-|                             |                              |
-|                             |                              |
-|                             |                              |
-
+<img width="1552" height="1600" alt="image" src="https://github.com/user-attachments/assets/fd569381-53dd-448e-9f79-87f84690c93b" />
 <img width="1200" height="1600" alt="Laser" src="https://github.com/user-attachments/assets/2c3bfdae-b491-4496-8090-f404c79241db" />
 
 ## TABULATION LASER Characteristics (1310 nm)
+<img width="1496" height="1456" alt="image" src="https://github.com/user-attachments/assets/a3a5fc3e-329d-4c9a-b80a-02f818110908" />
 
-| Forward Voltage \(V_f\) (V) | Forward Current \(I_f\) (mA) |
-|-----------------------------|------------------------------|
-|                             |                              |
-|                             |                              |
-|                             |                              |
 ---
 
 ## MODEL GRAPH
-*(Insert IV characteristics graph and optical power plots here)*
+<img width="1193" height="1599" alt="image" src="https://github.com/user-attachments/assets/5b76ece1-de66-438d-aa43-f4f7720af28a" />
+<img width="1324" height="1599" alt="image" src="https://github.com/user-attachments/assets/556a52cb-113b-4edb-acac-28b5b8692f3b" />
 
 ---
 
